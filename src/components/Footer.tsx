@@ -25,15 +25,11 @@ const Footer = () => (
           <ul className="space-y-2 text-sm opacity-80">
             <li className="flex items-center gap-2">
               <Mail className="h-4 w-4 shrink-0 text-hero-accent" />
-              <a href="mailto:avazquez@frm.utn.edu.ar" className="hover:underline">avazquez@frm.utn.edu.ar</a>
-            </li>
-            <li className="flex items-center gap-2">
-              <Mail className="h-4 w-4 shrink-0 text-hero-accent" />
-              <a href="mailto:cortezalberto@gmail.com" className="hover:underline">cortezalberto@gmail.com</a>
+              <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cortezalberto@gmail.com" target="blank" className="hover:underline">cortezalberto@gmail.com</a>
             </li>
             <li className="flex items-center gap-2">
               <Phone className="h-4 w-4 shrink-0 text-hero-accent" />
-              261 6503396
+              261 5884753
             </li>
           </ul>
         </div>

@@ -1,14 +1,13 @@
 import PageHeader from "@/components/PageHeader";
 import { User, GraduationCap, Users, Crown } from "lucide-react";
 
-const director = { nombre: "Mag. Lic. Alejandro Vazquez", rol: "Director" };
-const codirector = { nombre: "Mag. Lic. Alberto Alejandro Cortez", rol: "Codirector" };
+const director = { nombre: "Mag. Lic. Alberto Alejandro Cortez", rol: "Director" };
+const codirector = { nombre: "Ing. Bruno Roberti", rol: "Codirector" };
 
 const docentes = [
   "Mag. Ing. Carlos Alejandro Martínez",
   "Ing. Claudia Alejandra Naveda",
   "Esp. Lic. Carlos Enrique Troglia",
-  "Ing. Bruno Roberti",
   "Lic. Gustavo Felipe Manino",
 ];
 

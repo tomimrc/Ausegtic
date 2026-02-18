@@ -55,7 +55,7 @@ const Index = () => {
               <BookOpen className="h-4 w-4" /> Ver objetivos
             </Link>
             <a
-              href="mailto:avazquez@frm.utn.edu.ar"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=cortezalberto@gmail.com" target="_blank"
               className="inline-flex items-center gap-2 rounded-lg border border-hero-foreground/30 px-6 py-3 font-semibold text-hero-foreground transition-colors hover:bg-hero-foreground/10"
             >
               <Mail className="h-4 w-4" /> Contactar
@@ -146,15 +146,8 @@ const Index = () => {
           <h2 className="font-display text-2xl md:text-3xl font-bold text-foreground mb-6">
             ¿Querés contactarnos?
           </h2>
-          <div className="grid gap-4 sm:grid-cols-3">
-            <a href="mailto:avazquez@frm.utn.edu.ar" className="rounded-xl bg-card border border-secondary/20 p-5 card-hover flex flex-col items-center gap-2 hover:border-secondary/50">
-              <div className="h-12 w-12 rounded-full bg-secondary/10 flex items-center justify-center">
-                <Mail className="h-5 w-5 text-secondary" />
-              </div>
-              <span className="text-sm font-medium text-foreground">Alejandro Vazquez</span>
-              <span className="text-xs text-muted-foreground">avazquez@frm.utn.edu.ar</span>
-            </a>
-            <a href="mailto:cortezalberto@gmail.com" className="rounded-xl bg-card border border-info/20 p-5 card-hover flex flex-col items-center gap-2 hover:border-info/50">
+          <div className="grid gap-4 sm:grid-cols-2">
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cortezalberto@gmail.com" target="blank" className="rounded-xl bg-card border border-info/20 p-5 card-hover flex flex-col items-center gap-2 hover:border-info/50">
               <div className="h-12 w-12 rounded-full bg-info/10 flex items-center justify-center">
                 <Mail className="h-5 w-5 text-info" />
               </div>
@@ -166,7 +159,7 @@ const Index = () => {
                 <Phone className="h-5 w-5 text-warm" />
               </div>
               <span className="text-sm font-medium text-foreground">Teléfono</span>
-              <span className="text-xs text-muted-foreground">261 6503396</span>
+              <span className="text-xs text-muted-foreground">261 5884753</span>
             </div>
           </div>
         </div>
