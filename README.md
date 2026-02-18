@@ -147,133 +147,32 @@ Presenta la estructura del grupo y sus miembros.
 
 Describe la participación del grupo en la formación académica.
 
-**Contenido principal:**
+**Use GitHub Codespaces**
 
-- Texto introductorio:
-  - Los miembros del Grupo de Auditoría y Seguridad de TIC pertenecen al cuerpo docente de diversas cátedras.
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-- **Listado de cátedras:**
-  - Proyecto Final  
-  - Seguridad  
-  - Administración de Recursos  
-  - Administración Gerencial  
-  - Sistemas de Gestión  
-  - Paradigmas de Programación  
-  - Taller de Programación Avanzada  
-  - Seguridad en Redes  
-  - Desarrollo de Software Dirigido por Modelos  
-  - Sistemas Distribuidos  
+## What technologies are used for this project?
 
----
+This project is built with:
 
-### 5. Proyectos (`/proyectos`)
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
-Recopila los proyectos de investigación del grupo, muchos de ellos interinstitucionales.
+## How can I deploy this project?
 
-**Secciones sugeridas:**
+Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
 
-- **Listado de proyectos:**
-  - “Integración y calidad del desarrollo de software dirigido por modelos en entornos ágiles”  
-    - Proyecto de investigación interinstitucional incorporado al programa de Incentivos.  
-    - Resolución 222/19, código SIINME0007640TC.
+## Can I connect a custom domain to my Lovable project?
 
-  - “Metamodelo de Auditoría y Reingeniería para Sistemas de Trazabilidad de Vinos”  
-    - Interinstitucional UTN FRM – Universidad del Aconcagua.  
-    - 2016–2018.  
-    - Universidad del Aconcagua: Res. 235/2015 FCSA y Res. 022/16 CIUDA-Consejo Superior.  
-    - UTN: Proyecto Nacional Incentivos EIINIME0003878TC PID 3878.
+Yes, you can!
 
-  - “Métodos formales de testing de software para mejora de calidad de sistemas”  
-    - Interinstitucional UTN FRM – Universidad Nacional de San Juan.  
-    - 2013–2014.  
-    - FRM: Res. 503/2012.  
-    - UTN: código INI1742, Res. 62/13.  
-    - Programa de incentivos: código 25J086.
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-  - “Computación de alto rendimiento segura para Cloud Computing en Data Centers”  
-    - Con Universidad del Aconcagua.  
-    - 2012–2013.
-
-  - “Impacto de e-business en las Pymes de Mendoza”  
-    - Universidad Tecnológica Nacional, 2009–2011.  
-    - Secretaría de Ciencia y Técnica de Rectorado, Res. 229/2009, código UTN1039.
-
-  - “Simulación de Negocios basado en Nuevas Tecnologías Informáticas”  
-    - Universidad Tecnológica Nacional, 2005–2007.  
-    - Aval Facultad Regional Mendoza, Res. 330/2006.
-
----
-
-### 6. Producción / Transferencia (`/produccion-transferencia`)
-
-Página extensa que documenta la **producción científica** y la **transferencia al medio**.
-
-Se recomienda dividirla en **subsecciones** o **tabs** para facilitar la lectura.
-
-#### 6.1. Producción científica – Publicaciones
-
-Incluye:
-
-- Patente de investigación nacional (Sistema AUDITRAZ) y su registro.
-- Artículos publicados en revistas (por ejemplo, REABTIC).
-- Papers aprobados y presentados en congresos:
-  - CONAIISI
-  - WICC
-  - JAIIO
-  - CIIP
-  - COMTEL
-  - CLEI
-  - ENIDI
-  - CNIT
-  - Entre otros.
-- Publicación de libros, como:
-  - “Gamificación: Análisis y consejos desde la mirada de los Videojuegos”, Federico Brest, Editorial Dunken.
-- Proyecto de libro sobre Desarrollo de Software Dirigido por Modelos.
-
-**Enlaces relevantes:**
-
-- [Artículo REABTIC 2020](https://revistas.setrem.com.br/index.php/reabtic/article/view/360)  
-- [Video – IPS Modelo Mendoza](https://www.youtube.com/watch?v=SOxTFQl-Hfw)  
-- [Edición REABTIC 2014](http://revistas.setrem.com.br/index.php/reabtic/issue/view/2)  
-- [Repositorio FastSkan (herramienta de reconocimiento)](https://github.com/Kry0t/FastSkan)  
-
-#### 6.2. Transferencia realizada
-
-Incluye numerosas acciones, entre las que se destacan:
-
-- Mentoría de proyectos (ej. “Votación Electrónica con Blockchain”, finalista y ganador en Semana STEAM UTN + Embajada de EE.UU.).
-- Organización y coordinación de:
-  - CONAIISI (varias ediciones).
-  - Exposiciones anuales de Proyectos de Sistemas.
-  - Computing Security Day.
-  - Participación en eventos como Ciudades Conectadas, INTERSEC, FLISoL, etc.
-- Ejecución de convenios con universidades y organismos (UTN, Universidad del Aconcagua, IDITS, entre otros).
-- Servicios y asesorías:
-  - Asesoramiento en seguridad a gobiernos y ministerios.
-  - Auditorías y pentesting para empresas nacionales e internacionales.
-  - Revisión técnica de plataformas (por ejemplo, UNCUVirtual).
-- Formación profesional:
-  - Cursos de “Administrador de Seguridad de Informática” (distintas ediciones).
-  - Tutorías y direcciones de Prácticas Profesionales Supervisadas (PPS), tesinas y tesis (MBA, maestrías, etc.).
-- Participación en comités científicos, académicos y de programa:
-  - COMTEL, CLEI, CONAIISI, Eduq@, WEEF, SABTIC, JAIIO, entre otros.
-  - Evaluación de artículos científicos para revistas como “Tecnología y Ciencia” (UTN) y otras.
-- Actividades en colaboración con organizaciones como **ISACA** (gobernanza de TI, COBIT, CISM, etc.).
-
----
-
-## Estilo y diseño
-
-Este proyecto **no replica el estilo visual original** del sitio de UTN FRM.  
-En su lugar, propone:
-
-- Un diseño **moderno e institucional**, con:
-  - Hero en la página de inicio.
-  - Secciones bien separadas, con tipografías claras y espaciado generoso.
-  - Componentes visuales tipo cards, tablas y acordeones para manejar gran volumen de contenido.
-  - Cada sección de este README a **secciones** o **bloques** en las distintas páginas.
-  - Los listados largos (publicaciones, transferencia, comités) a acordiones, tabs o listas segmentadas.
-
----
-
-De esta forma se preserva **la información completa del sitio original** pero presentada en un diseño nuevo y más usable.
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
